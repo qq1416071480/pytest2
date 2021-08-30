@@ -1,0 +1,114 @@
+2021-08-26 14:36:20,596|INFO|logger.py|40|测试开始
+2021-08-26 14:36:20,596|ERROR|logger.py|45|name 'a' is not defined
+Traceback (most recent call last):
+  File "F:/hello/pytest2/common/logger.py", line 43, in <module>
+    int(a)
+NameError: name 'a' is not defined
+2021-08-26 14:37:49,931|INFO|logger.py|40|测试开始
+2021-08-26 14:37:49,931|ERROR|logger.py|44|name 'a' is not defined
+Traceback (most recent call last):
+  File "F:/hello/pytest2/common/logger.py", line 42, in <module>
+    int(a)
+NameError: name 'a' is not defined
+2021-08-26 14:37:49,931|INFO|logger.py|45|测试结束
+2021-08-26 14:39:07,685|INFO|logger.py|40|测试开始
+2021-08-26 14:39:07,686|ERROR|logger.py|44|name 'a' is not defined
+Traceback (most recent call last):
+  File "F:/hello/pytest2/common/logger.py", line 42, in <module>
+    int(a)
+NameError: name 'a' is not defined
+2021-08-26 14:39:07,687|INFO|logger.py|45|测试结束
+2021-08-26 14:39:36,414|INFO|logger.py|40|测试开始
+2021-08-26 14:39:36,414|ERROR|logger.py|44|name 'a' is not defined
+Traceback (most recent call last):
+  File "F:/hello/pytest2/common/logger.py", line 42, in <module>
+    int(a)
+NameError: name 'a' is not defined
+2021-08-26 14:39:36,415|INFO|logger.py|45|测试结束
+2021-08-26 15:07:02,753|INFO|logger.py|41|测试开始
+2021-08-26 15:07:02,753|ERROR|logger.py|45|name 'a' is not defined
+Traceback (most recent call last):
+  File "F:/hello/pytest2/common/logger.py", line 43, in <module>
+    int(a)
+NameError: name 'a' is not defined
+2021-08-26 15:07:02,754|INFO|logger.py|46|测试结束
+2021-08-26 15:07:24,879|INFO|logger.py|41|测试开始
+2021-08-26 15:07:24,879|ERROR|logger.py|45|name 'a' is not defined
+Traceback (most recent call last):
+  File "F:/hello/pytest2/common/logger.py", line 43, in <module>
+    int(a)
+NameError: name 'a' is not defined
+2021-08-26 15:07:24,880|INFO|logger.py|46|测试结束
+2021-08-26 15:07:29,890|INFO|logger.py|41|测试开始
+2021-08-26 15:07:29,890|ERROR|logger.py|45|name 'a' is not defined
+Traceback (most recent call last):
+  File "F:/hello/pytest2/common/logger.py", line 43, in <module>
+    int(a)
+NameError: name 'a' is not defined
+2021-08-26 15:07:29,890|INFO|logger.py|46|测试结束
+2021-08-26 15:18:35,628|ERROR|test_01_index.py|17|======>test1用例执行未通过,失败信息<Response [200]>
+2021-08-26 15:21:25,096|INFO|test_01_index.py|19|**********test1结束用例执行**********
+2021-08-26 15:25:24,316|ERROR|test_01_index.py|17|======>test1用例执行未通过,失败信息<Response [200]>
+2021-08-26 15:25:24,316|INFO|test_01_index.py|18|**********test1结束用例执行**********
+2021-08-26 15:26:09,791|ERROR|test_01_index.py|17|======>test1用例执行未通过,失败信息assert 0 == 1
+2021-08-26 15:26:09,792|INFO|test_01_index.py|18|**********test1结束用例执行**********
+2021-08-26 15:26:31,611|ERROR|test_01_index.py|17|======>test1用例执行未通过,失败信息assert 200 == 3
+2021-08-26 15:26:31,611|INFO|test_01_index.py|18|**********test1结束用例执行**********
+2021-08-26 15:27:05,815|ERROR|test_01_index.py|17|======>test1用例执行未通过,失败信息assert 0 == 1
+2021-08-26 15:48:19,289|ERROR|test_01_index.py|17|======>test1用例执行未通过,失败信息assert 0 == 1
+2021-08-26 15:49:32,459|ERROR|test_01_index.py|17|======>test1用例执行未通过,失败信息assert 0 == 1
+2021-08-26 15:49:32,459|INFO|test_01_index.py|18|**********test1结束用例执行**********
+2021-08-26 15:50:24,741|INFO|test_01_index.py|18|**********test1结束用例执行**********
+2021-08-26 15:52:14,219|INFO|test_01_index.py|19|**********test1结束用例执行**********
+2021-08-26 15:58:18,283|INFO|test_01_index.py|20|**********test1结束用例执行**********
+2021-08-26 15:58:27,949|INFO|test_01_index.py|20|**********test1结束用例执行**********
+2021-08-26 16:26:33,394|INFO|logger.py|42|测试开始
+2021-08-26 16:26:33,394|ERROR|logger.py|46|name 'a' is not defined
+Traceback (most recent call last):
+  File "F:/hello/pytest2/common/logger.py", line 44, in <module>
+    int(a)
+NameError: name 'a' is not defined
+2021-08-26 16:26:33,395|INFO|logger.py|47|测试结束
+2021-08-26 16:27:57,377|INFO|test_01_index.py|19|**********test1结束用例执行**********
+2021-08-26 16:28:07,097|ERROR|test_01_index.py|17|======>test1用例执行未通过,失败信息assert 0 == 1
+2021-08-26 16:28:07,098|ERROR|test_01_index.py|18|assert 0 == 1
+Traceback (most recent call last):
+  File "F:\hello\pytest2\test_case\test_01_index.py", line 15, in test_01_weather
+    assert res.json()['error_code'] == 1
+AssertionError: assert 0 == 1
+2021-08-26 16:28:07,103|INFO|test_01_index.py|19|**********test1结束用例执行**********
+2021-08-26 16:31:51,796|ERROR|test_01_index.py|18|assert 0 == 1
+Traceback (most recent call last):
+  File "F:\hello\pytest2\test_case\test_01_index.py", line 16, in test_01_weather
+    assert res.json()['error_code'] == 1
+AssertionError: assert 0 == 1
+2021-08-26 16:33:00,736|ERROR|test_01_index.py|18|assert 0 == 1
+Traceback (most recent call last):
+  File "F:\hello\pytest2\test_case\test_01_index.py", line 16, in test_01_weather
+    assert res.json()['error_code'] == 1
+AssertionError: assert 0 == 1
+2021-08-26 16:33:00,738|INFO|test_01_index.py|20|结束用例执行test1
+2021-08-26 16:35:49,272|ERROR|test_01_index.py|18|assert 0 == 1
+Traceback (most recent call last):
+  File "F:\hello\pytest2\test_case\test_01_index.py", line 16, in test_01_weather
+    assert res.json()['error_code'] == 1
+AssertionError: assert 0 == 1
+2021-08-26 16:35:49,272|INFO|test_01_index.py|20|结束用例执行test1
+2021-08-26 16:37:30,449|ERROR|test_01_index.py|17|assert 0 == 1
+Traceback (most recent call last):
+  File "F:\hello\pytest2\test_case\test_01_index.py", line 15, in test_01_weather
+    assert res.json()['error_code'] == 1
+AssertionError: assert 0 == 1
+2021-08-26 16:38:25,933|ERROR|test_01_index.py|17|assert 0 == 1
+Traceback (most recent call last):
+  File "F:\hello\pytest2\test_case\test_01_index.py", line 15, in test_01_weather
+    assert res.json()['error_code'] == 1
+AssertionError: assert 0 == 1
+2021-08-26 16:40:23,068|ERROR|test_01_index.py|17|assert 0 == 1
+2021-08-26 16:40:36,655|ERROR|test_01_index.py|17|assert 0 == 1
+2021-08-26 16:43:40,678|ERROR|test_01_index.py|17|assert 0 == 1
+2021-08-26 17:28:33,976|ERROR|test_01_index.py|17|assert 0 == 1
+2021-08-26 17:29:41,447|ERROR|test_01_index.py|17|assert 0 == 1
+2021-08-26 17:30:08,465|ERROR|test_01_index.py|17|assert 0 == 1
+2021-08-26 18:13:05,500|ERROR|test_01_index.py|17|assert 0 == 1
+2021-08-26 18:17:47,556|ERROR|test_01_index.py|17|assert 0 == 1

@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_case.test_index",
+    "children" : [ {
+      "name" : "test_01_weather",
+      "uid" : "69f4e4b95f3e0d7c",
+      "parentUid" : "1392af690817985f2735e36b74b9ad5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630317962705,
+        "stop" : 1630317962830,
+        "duration" : 125
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_02_calendar",
+      "uid" : "7f02239cc69bd3df",
+      "parentUid" : "1392af690817985f2735e36b74b9ad5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630317962833,
+        "stop" : 1630317963008,
+        "duration" : 175
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "test_case.test_index"
+  } ]
+}

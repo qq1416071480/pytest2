@@ -1,0 +1,2 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:231 Starting new HTTP connection (1): apis.juhe.cn:80
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://apis.juhe.cn:80 "GET /simpleWeather/query?city=%E9%83%B4%E5%B7%9E&key=e3a339c7f9e19a3fae471853d28b69f1 HTTP/1.1" 200 None

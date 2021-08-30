@@ -1,0 +1,76 @@
+{
+  "uid" : "ad24f86c17e3a130",
+  "name" : "test_01_weather",
+  "fullName" : "test_case.test_index.Test_juhe#test_01_weather",
+  "historyId" : "dacd91f2d12fa76f5970bd237242f0be",
+  "time" : {
+    "start" : 1630317395836,
+    "stop" : 1630317395964,
+    "duration" : 128
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f15a9ce14a2fafd6",
+      "name" : "log",
+      "source" : "f15a9ce14a2fafd6.txt",
+      "type" : "text/plain",
+      "size" : 286
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "test1-1"
+  }, {
+    "name" : "feature",
+    "value" : "test1"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_index"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_juhe"
+  }, {
+    "name" : "host",
+    "value" : "mind"
+  }, {
+    "name" : "thread",
+    "value" : "5896-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_index"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ad24f86c17e3a130.json",
+  "parameterValues" : [ ]
+}

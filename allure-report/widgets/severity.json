@@ -1,0 +1,21 @@
+[ {
+  "uid" : "7f02239cc69bd3df",
+  "name" : "test_02_calendar",
+  "time" : {
+    "start" : 1630317962833,
+    "stop" : 1630317963008,
+    "duration" : 175
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "69f4e4b95f3e0d7c",
+  "name" : "test_01_weather",
+  "time" : {
+    "start" : 1630317962705,
+    "stop" : 1630317962830,
+    "duration" : 125
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

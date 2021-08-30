@@ -1,0 +1,4 @@
+2021-08-27 10:17:12,934|ERROR|test_01_index.py|18|assert 0 == 1
+2021-08-27 16:42:52,074|ERROR|test_index.py|22|assert 0 == 1
+2021-08-27 16:49:56,049|ERROR|test_index.py|22|assert 0 == 1
+2021-08-27 17:03:10,398|ERROR|test_index.py|22|assert 0 == 1

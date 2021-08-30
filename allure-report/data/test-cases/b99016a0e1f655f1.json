@@ -1,0 +1,76 @@
+{
+  "uid" : "b99016a0e1f655f1",
+  "name" : "test_02_calendar",
+  "fullName" : "test_case.test_index.Test_juhe#test_02_calendar",
+  "historyId" : "0140ec2b3a458963fadd7e5bd248b70a",
+  "time" : {
+    "start" : 1630056576529,
+    "stop" : 1630056576750,
+    "duration" : 221
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a9da5a4bfde2afa6",
+      "name" : "log",
+      "source" : "a9da5a4bfde2afa6.txt",
+      "type" : "text/plain",
+      "size" : 282
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "test1-2"
+  }, {
+    "name" : "feature",
+    "value" : "test1"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_index"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_juhe"
+  }, {
+    "name" : "host",
+    "value" : "mind"
+  }, {
+    "name" : "thread",
+    "value" : "544-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_index"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b99016a0e1f655f1.json",
+  "parameterValues" : [ ]
+}
