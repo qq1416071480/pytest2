@@ -7,7 +7,7 @@ from api.api_login import ApiLogin
 
 @allure.feature('test1')
 class Test_juhe():
-    @allure.story('test1-1')
+    @allure.story('test1-3')
     def test_01_weather(self):
         url = 'http://apis.juhe.cn/simpleWeather/query'
         body = {
@@ -22,7 +22,7 @@ class Test_juhe():
             Logger.error(e)
             raise e
 
-    @allure.story('test1-2')
+    @allure.story('test1-4')
     def test_02_calendar(self):
         url = 'http://v.juhe.cn/calendar/day'
         body = {
