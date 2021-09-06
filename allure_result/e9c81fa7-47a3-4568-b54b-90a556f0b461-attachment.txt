@@ -1,2 +1,0 @@
-DEBUG    urllib3.connectionpool:connectionpool.py:231 Starting new HTTP connection (1): v.juhe.cn:80
-DEBUG    urllib3.connectionpool:connectionpool.py:461 http://v.juhe.cn:80 "GET /calendar/day?key=ff93d2d2299207e4af5d8d44b4477f4b&date=2021-8-16 HTTP/1.1" 200 None
